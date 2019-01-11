@@ -1,0 +1,9 @@
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsLib/bin/Debug/netstandard2.0/HundredDoorsLib.deps.json
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsLib/bin/Debug/netstandard2.0/HundredDoorsLib.dll
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsLib/bin/Debug/netstandard2.0/HundredDoorsLib.pdb
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsLib/obj/Debug/netstandard2.0/HundredDoorsLib.csprojAssemblyReference.cache
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsLib/obj/Debug/netstandard2.0/HundredDoorsLib.csproj.CoreCompileInputs.cache
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsLib/obj/Debug/netstandard2.0/HundredDoorsLib.AssemblyInfoInputs.cache
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsLib/obj/Debug/netstandard2.0/HundredDoorsLib.AssemblyInfo.cs
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsLib/obj/Debug/netstandard2.0/HundredDoorsLib.dll
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsLib/obj/Debug/netstandard2.0/HundredDoorsLib.pdb

@@ -1,0 +1,17 @@
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsTests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsTests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsTests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsTests/bin/Debug/netcoreapp2.2/HundredDoorsTests.deps.json
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsTests/bin/Debug/netcoreapp2.2/HundredDoorsTests.runtimeconfig.json
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsTests/bin/Debug/netcoreapp2.2/HundredDoorsTests.runtimeconfig.dev.json
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsTests/bin/Debug/netcoreapp2.2/HundredDoorsTests.dll
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsTests/bin/Debug/netcoreapp2.2/HundredDoorsTests.pdb
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsTests/obj/Debug/netcoreapp2.2/HundredDoorsTests.csprojAssemblyReference.cache
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsTests/obj/Debug/netcoreapp2.2/HundredDoorsTests.csproj.CoreCompileInputs.cache
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsTests/obj/Debug/netcoreapp2.2/HundredDoorsTests.AssemblyInfoInputs.cache
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsTests/obj/Debug/netcoreapp2.2/HundredDoorsTests.AssemblyInfo.cs
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsTests/obj/Debug/netcoreapp2.2/HundredDoorsTests.dll
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsTests/obj/Debug/netcoreapp2.2/HundredDoorsTests.pdb
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsTests/bin/Debug/netcoreapp2.2/HundredDoorsLib.dll
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsTests/bin/Debug/netcoreapp2.2/HundredDoorsLib.pdb
+/Users/sujames/Documents/My Works/HundredDoors/HundredDoorsTests/obj/Debug/netcoreapp2.2/HundredDoorsTests.csproj.CopyComplete
